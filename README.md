@@ -37,16 +37,18 @@ This project implements a hand gesture-based control system using OpenCV and Med
 
 ## Installation
 
+
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository-url.git
    
+## Remember to install all the Dependencies that are crucial for the program
 
 2. Navigate into the project directory:
 
 ```bash
-
-cd your-repository-directory
+  cd your-repository-directory
 
 
 
