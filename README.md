@@ -54,11 +54,11 @@ This project implements a hand gesture-based control system using OpenCV and Med
 ## Packages
 
 - **OpenCV**: For computer vision tasks, mainly hand detection.
-- **MediaPipe: For hand gesture recognition.
-- ** PyAutoGUI: To control mouse movements and clicks.
-- ** Pycaw: For volume control.
-- ** Screen Brightness Control: To manage screen brightness.
-- ** Other Python libraries: Math, Enum, Ctypes, and Google Protobuf.
+- **MediaPipe**: For hand gesture recognition.
+- **PyAutoGUI**: To control mouse movements and clicks.
+- **Pycaw**: For volume control.
+- **Screen Brightness Control**: To manage screen brightness.
+- **Other Python libraries**: Math, Enum, Ctypes, and Google Protobuf.
 
 ###  Required Packages
 To install the necessary packages, run the following commands:
