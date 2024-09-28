@@ -47,8 +47,33 @@ This project implements a hand gesture-based control system using OpenCV and Med
 
 2. Navigate into the project directory:
 
+    ```bash
+
+    cd your-repository-directory
+
+## Packages
+
+- **OpenCV**: For computer vision tasks, mainly hand detection.
+- **MediaPipe: For hand gesture recognition.
+- ** PyAutoGUI: To control mouse movements and clicks.
+- ** Pycaw: For volume control.
+- ** Screen Brightness Control: To manage screen brightness.
+- ** Other Python libraries: Math, Enum, Ctypes, and Google Protobuf.
+
+###  Required Packages
+To install the necessary packages, run the following commands:
+
 ```bash
-  cd your-repository-directory
+!pip install opencv-python
+!pip install mediapipe
+!pip install pyautogui
+!pip install pycaw
+!pip install google.protobuf
+!pip install screen-brightness-control
+!pip install comtypes
+
+
+
 
 
 
